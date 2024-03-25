@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{4E72C5E8-D301-4307-ABFA-3CC7C15C5FE9}") = "Parallops", "src\Parallops\Parallops.csproj", "{B690F8B6-D248-41EC-8B93-34C1D739F320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B690F8B6-D248-41EC-8B93-34C1D739F320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B690F8B6-D248-41EC-8B93-34C1D739F320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B690F8B6-D248-41EC-8B93-34C1D739F320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B690F8B6-D248-41EC-8B93-34C1D739F320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

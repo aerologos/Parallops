@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.5.0.0</PackageVersion>
+        <AssemblyVersion>1.5.0.0</AssemblyVersion>
+        <FileVersion>1.5.0.0</FileVersion>
+        <Title>Parallops</Title>
+        <Authors>Alex Valchuk</Authors>
+        <Copyright>Copyright © 2024 AEROLOGOS.</Copyright>
+        <Description>The library of classes used for parallel operations.</Description>
+        <RepositoryUrl>https://github.com/aerologos/Parallops.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>parallelism mutithreading</PackageTags>
+        <PackageReleaseNotes>Make the library public.</PackageReleaseNotes>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Extype" Version="1.2.0" />
+      <PackageReference Include="NLog" Version="5.0.1" />
+    </ItemGroup>
+
+</Project>

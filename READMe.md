@@ -1,0 +1,1 @@
+﻿The library of classes used for parallel operations.
